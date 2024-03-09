@@ -14,7 +14,7 @@ memory access and write (MEM) e write back (WB).
 
 support most of MIPS instruction and solve every hazard with stall.(Data Hazards and Control Hazards) Verilog code.
 
-Developed during the winter 2019 Computer Architecture Laboratory course at the University of Ferdowsi Mashhad.
+Developed during the winter 2022 Computer Architecture course at the National Institute of Technology, Srinagar for Dr. Janob Bashir's project.
 # Modular design
 code start from mypip
 
